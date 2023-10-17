@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CONTROLE-FLUCO.iml" filepath="$PROJECT_DIR$/CONTROLE-FLUCO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CONTROLE-FLUXO.iml" filepath="$PROJECT_DIR$/CONTROLE-FLUXO.iml" />
     </modules>
   </component>
 </project>
